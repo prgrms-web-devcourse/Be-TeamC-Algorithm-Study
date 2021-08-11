@@ -66,6 +66,6 @@
 |#|단원|문제 명|동성|상순|수현|동건|수빈|진아|
 |---|---|---|---|---|---|---|---|---|
 |1|[해시](https://programmers.co.kr/learn/courses/30/parts/12077)|[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|🔴||🟢||||
-|2|[해시](https://programmers.co.kr/learn/courses/30/lessons/42576)|[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|🟢|||🔴|||
+|2|[해시](https://programmers.co.kr/learn/courses/30/lessons/42576)|[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|🟢||🔴||||
 |3|[해시](https://programmers.co.kr/learn/courses/30/lessons/42576)|[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42578)|||||||
 
