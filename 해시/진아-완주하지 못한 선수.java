@@ -3,31 +3,24 @@ import java.util.*;
 public class Solution {
 
     public String solution(String[] participant, String[] completion) {
-        HashMap<String, Integer> completionMap = new HashMap<>();
-
-        for(String person : completion){
-            if(completionMap.containsKey(person)) {
-                completionMap.put(person, completionMap.get(person) + 1);
-            }
-            else {
-                completionMap.put(person, 1);
-            }
-        }
+        List<String> participantsNotCompleted = new ArrayList<>();
+        HashMap<String, Integer> participantMap = new HashMap<>();
 
         for(String person : participant){
-            if(!completionMap.containsKey(person)){
-                return person;
-            }
+            participantMap.put(person, participantMap.getOrDefault(person, 0) + 1);
+        }
 
-            if(completionMap.get(person) == 1) {
-                completionMap.remove(person);
+        for(String person : completion){
+            if(participantMap.get(person) > 1) {
+                participantMap.put(person, participantMap.get(person) - 1);
             }
             else {
-                completionMap.put(person, completionMap.get(person) - 1);
+                participantMap.remove(person);
             }
         }
 
-        List<String> participantsNotCompleted = new ArrayList<>(completionMap.keySet());
+        participantsNotCompleted = new ArrayList<>(participantMap.keySet());
+
         return participantsNotCompleted.get(0);
     }
 }
