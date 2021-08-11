@@ -61,11 +61,11 @@
 >
 > 너무 어렵다면 -> ❌
 >
-> ex) [😅 2021-08-10]`(파일 링크)`
+> ex) [🟢 2021-08-10]`(파일 링크)`
 
 |#|단원|문제 명|동성|상순|수현|동건|수빈|진아|
 |---|---|---|---|---|---|---|---|---|
-|1|[해시](https://programmers.co.kr/learn/courses/30/parts/12077)|[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|🔴||🟢||||
-|2|[해시](https://programmers.co.kr/learn/courses/30/lessons/42576)|[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|🟢||🔴||||
+|1|[해시](https://programmers.co.kr/learn/courses/30/parts/12077)|[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|🔴||[🟢 2021-08-11](해시/수현-완주하지%20못한%20선수.java)||||
+|2|[해시](https://programmers.co.kr/learn/courses/30/lessons/42576)|[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|🟢||[🔴 2021-08-11](해시/수현-전화번호%20목록.java)||||
 |3|[해시](https://programmers.co.kr/learn/courses/30/lessons/42576)|[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42578)|||||||
 
