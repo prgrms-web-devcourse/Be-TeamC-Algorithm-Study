@@ -1,24 +1,24 @@
-import java.util.Arrays;
+// import java.util.Arrays;
 
-class Solution {
-    public String solution(String[] participant, String[] completion) {
-        int ans = 0;
+// class Solution {
+//     public String solution(String[] participant, String[] completion) {
+//         int ans = 0;
         
-        Arrays.sort(participant);
-        Arrays.sort(completion);
+//         Arrays.sort(participant);
+//         Arrays.sort(completion);
         
-        for(int i=0; i<completion.length; i++) {
-            if(!participant[i].equals(completion[i])) {
-                ans = i;
-                break;
-            }
-            if(i==completion.length-1) ans = i+1;
-        }
-        return participant[ans];
-    }
-}
+//         for(int i=0; i<completion.length; i++) {
+//             if(!participant[i].equals(completion[i])) {
+//                 ans = i;
+//                 break;
+//             }
+//             if(i==completion.length-1) ans = i+1;
+//         }
+//         return participant[ans];
+//     }
+// }
 
-// 수정 코드
+// HashMap 사용 버전
 import java.util.HashMap;
 
 class Solution {
