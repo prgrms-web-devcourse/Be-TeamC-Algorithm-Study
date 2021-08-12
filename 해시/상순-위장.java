@@ -1,7 +1,7 @@
 /*
  * https://programmers.co.kr/learn/courses/30/lessons/42578
  *
- * solution1
+ * solution
  * 같은 종류의 옷은 같이 입지 못 하는 것에 주목
  * hash로 같은 종류의 옷 갯수를 체크, 가지고 있는 종류를 알기 위해서 List에 추가하여 저장
  * 각각의 옷은 입거나 안 입을 수 있기 때문에 1가지 경우수를 더 추가해서 곱으로 경우의 수 계산
