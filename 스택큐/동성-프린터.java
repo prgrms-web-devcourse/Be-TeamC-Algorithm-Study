@@ -6,7 +6,7 @@ public class Level2_printer {
 // 이 문제의 핵심은 자바는 파이썬과 다르게 queue를 for문으로 접근할때 인덱스 접근이 안된다.
     // 따라서 for each를 이용해서 접근해야 함
 
-// 또한 파이썬은 for each라는 구문이 있어 for문에 안 돌 경우 each문으로 나오지만 자바는 이 기능이 없다
+// 또한 파이썬은 for else라는 구문이 있어 for문에 안 돌 경우 each문으로 나오지만 자바는 이 기능이 없다
     // 따라서 flag를 걸어 문제를 해결 해야 함.
     public static void main(String[] args) {
         Solution2 s2=new Solution2();
