@@ -1,11 +1,10 @@
 /*
 
-https://programmers.co.kr/learn/courses/30/lessons/42586
+https://programmers.co.kr/learn/courses/30/lessons/42583
 
 Solution
 지나간 트럭, 다리위의 트럭, 다리위의 무게, 총시간을 변수로 가지도록하고
 ArrayList를 사용하여서 다리위에 올라간 트럭의 각각의 시간을 저장한다.
-
 
 */
 
@@ -22,6 +21,13 @@ class Solution1 {
         ArrayList<Integer> truckTimes = new ArrayList<>();
         while(true){
 
+            // 총 시간 증가
+            answer++;
+
+            // 지나간 트럭이 총 트럭의 수와 같다면 탈출
+            if (passTruck == truck)
+                break;
+
             // 트럭이 다리위에 더 올라갈 수 있는 지 확인
             if(passTruck + onBridge < truck) 
                 if(totalWeight + truck_weights[passTruck + onBridge] <= weight){
@@ -29,9 +35,6 @@ class Solution1 {
                     truckTimes.add(0);
                     onBridge++;
                 }
-
-            // 총 시간 증가
-            answer++;
 
             // 다리 위에 올라간 트럭의 시간 증가(위치 증가)
             for (int i = 0; i < truckTimes.size(); i++){
@@ -45,12 +48,8 @@ class Solution1 {
                 passTruck++;
                 onBridge--;
             }
-            
-            // 지나간 트럭이 총 트럭의 수와 같다면 탈출
-            if (passTruck == truck)
-                break;
         }
         // 다리위가 완전히 비어 있는 것을 체크하는 것도 시간으로 측정되어서
-        return answer + 1;
+        return answer;
     }
 }
