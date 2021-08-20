@@ -64,7 +64,7 @@
 | **<c8>스택/큐 </c8>** |   **문제 명**    |   **동성**    |  **상순**    |    **수현**     |    **동건**      |  **수빈**   |   **진아**      |
 |    1    | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)          | [🟢](스택큐/동성-기능개발.java)<br>Queue   | [🟢](스택큐/상순-기능개발.java)   |    | [🟢](스택큐/동건-기능개발.java)<br>Queue    |  [🟢](스택큐/수빈-기능개발.java)<br>Queue    |     | <!-- 끝 줄 표기 -->
 |    2    | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)            |  [🔴](스택큐/동성-프린터.java)<br>forEach<br>flag   |      |    |  [🟢](스택큐/동건-프린터.java)<br>Queue   |   [🟢](스택큐/수빈-프린터.java)<br>PriorityQueue   |     | <!-- 끝 줄 표기 -->
-|    3    | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | [🔴](스택큐/동성-다리를지나는트럭.java)<br>class활용, 기능 분활  | [🟢](스택큐/상순-다리를지나는트럭.java)<br>Dummy를 활용하기   |[🔴](스택큐/수현-다리를%20지나는%20트럭.java)    | [🔴](스택큐/동건-다리를%20지나는%20트럭.java)<br>QUEUE    |      |     | <!-- 끝 줄 표기 -->
+|    3    | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | [🔴](스택큐/동성-다리를지나는트럭.java)<br>class활용, 기능 분활  | [🟢](스택큐/상순-다리를지나는트럭.java)<br>Dummy를 활용하기   |[🔴](스택큐/수현-다리를%20지나는%20트럭.java)    | [🟢](스택큐/동건-다리를%20지나는%20트럭.java)<br>QUEUE    |      |     | <!-- 끝 줄 표기 -->
 |    4    | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)           | [🟢](스택큐/동성-주식가격.java)   |      |    |  [🟢](스택큐/동건-주식가격.java)  | [🟢](스택큐/수빈-주식가격.java)     |     | 
 | **<c8>힙 </c8>** |   **문제 명**    |   **동성**    |  **상순**    |    **수현**     |    **동건**      |  **수빈**   |   **진아**      |
 |    1    | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)          | |    |    |    |     |     | <!-- 끝 줄 표기 -->
