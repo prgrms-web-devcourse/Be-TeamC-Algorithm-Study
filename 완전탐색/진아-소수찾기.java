@@ -47,7 +47,7 @@ public class Solution {
     }
 
 
-    public boolean isPrimeNumber(int inputNumber) {
+    private boolean isPrimeNumber(int inputNumber) {
         if (inputNumber <= 1) {
             return false;
         }
