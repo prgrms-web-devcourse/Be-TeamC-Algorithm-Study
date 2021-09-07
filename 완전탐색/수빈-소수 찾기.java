@@ -19,7 +19,6 @@ class Solution {
             visited[i] = false;
             sb.setLength(sb.length() - 1);
         }
-        System.out.println(set);
 
         int answer = 0;
         for(int num : set){
