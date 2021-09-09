@@ -1,38 +1,34 @@
-package com.algo.programmers.sort;
+class Solution {
+    public String solution(int[] numbers) {
 
-import java.util.ArrayList;
-import java.util.Arrays;
+        String numStr[]=new String[numbers.length];
 
-public class Level2_most {
+//      Int ==> String으로 변환
+        for (int i=0;i<numbers.length;i++) {
 
-    public static void main(String[] args) {
+            numStr[i]=String.valueOf(numbers[i]);
+            // System.out.println(numStr[i]);
+        }
 
-        int [] array={1, 5, 2, 6, 3, 7, 4};
-        int [][]cmd={{2, 5, 3}, {4, 4, 1}, {1, 7, 3}};
-        Solution1 s1=new Solution1();
-        s1.solution(array,cmd);
-
-    }
-}
-
-
-class Solution1 {
-    public int[] solution(int[] array, int[][] commands) {
-
-        int []answer=new int[commands.length];
-
-        for (int i=0;i<commands.length;i++) {
-            int start=commands[i][0];
-            int end=commands[i][1];
-            int find=commands[i][2];
+//       Compartor
+        Arrays.sort(numStr,new Comparator<String>() {
+            @Override
+            public int compare(String a, String b){
+                return ((b+a).compareTo(a+b));
+            }
+        });
 
 
-            // Copy Of Range
-            int [] temp=Arrays.copyOfRange(array,start-1,end);
-            // Sort
-            Arrays.sort(temp);
-            answer[i]=temp[find-1];
 
+        String answer = "";
+
+        if (numStr[0].equals("0")) {
+            return "0";
+        }
+
+
+        for (String a:numStr) {
+            answer+=a;
         }
 
         return answer;
