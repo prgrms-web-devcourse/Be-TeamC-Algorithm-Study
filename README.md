@@ -80,12 +80,9 @@
 |    3    | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)          |   |    |    |  [🟢](완전탐색/동건-카펫.java)  | [🟢](완전탐색/수빈-카펫.java)    |[🟢](완전탐색/진아-카펫.java)|
 <!-- 끝 줄 표기 -->
 | **<c8>그리디 </c8>** |   **문제 명**    |   **동성**    |  **상순**    |    **수현**     |    **동건**      |  **수빈**   |   **진아**      |
-|    1    | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)          |   |    |    |   |    |    | <!-- 끝 줄 표기 -->
-|    2    | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)          |   |    |    |   |    |   | <!-- 끝 줄 표기 -->
-|    3    | [큰수만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)          |   |    |    |    |     |  | <!-- 끝 줄 표기 -->
-|    4    | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)          |   |    |    |   |     |     | <!-- 끝 줄 표기 -->
-|    5    | [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861)          |   |    |    |    |    |     | <!-- 끝 줄 표기 -->
-|    6    | [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)          |   |    |    |    |     |  | <!-- 끝 줄 표기 -->
-
-
-
+|    1    | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)          |   |    |    |   |    |   | <!-- 끝 줄 표기 -->
+|    2    | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)        |   |    |    |   |    |   | <!-- 끝 줄 표기 -->
+|    3    | [큰수만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)      |   |    |    |    |   |   | <!-- 끝 줄 표기 -->
+|    4    | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)        |   |    |    |    |   |   | <!-- 끝 줄 표기 -->
+|    5    | [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861)     |   |    |    |    |   |   | <!-- 끝 줄 표기 -->
+|    6    | [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)      |   |    |    |    |   |   | <!-- 끝 줄 표기 -->
