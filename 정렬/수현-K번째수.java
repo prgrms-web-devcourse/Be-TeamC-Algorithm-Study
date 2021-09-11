@@ -4,7 +4,7 @@ import java.util.Arrays;
 * https://programmers.co.kr/learn/courses/30/lessons/42748
 * subArray = Arrays.copyOfRange(arr, start, end);
 * */
-public class Solution8 {
+public class Solution {
     public int[] solution(int[] array, int[][] commands) {
         int[] answer = new int[commands.length];
 
@@ -21,10 +21,5 @@ public class Solution8 {
         }
 
         return answer;
-    }
-
-    public static void main(String[] args) {
-        System.out.println(Arrays.toString(new Solution8().solution(new int[]{1, 5, 2, 6, 3, 7, 4},
-            new int[][]{{2, 5, 3}, {4, 4, 1}, {1, 7, 3}})));
     }
 }
