@@ -81,7 +81,7 @@
 | **<c8>그리디 </c8>** |   **문제 명**    |   **동성**    |  **상순**    |    **수현**     |    **동건**      |  **수빈**   |   **진아**      |
 |    1    | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)          |[🟢](그리디/동성-체육복.java)   |    |    |   |    |   | <!-- 끝 줄 표기 -->
 |    2    | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)        |[🟢](그리디/동성-조이스틱.java)   |    |    |   |    |   | <!-- 끝 줄 표기 -->
-|    3    | [큰수만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)      |   |    |    |    |   |   | <!-- 끝 줄 표기 -->
+|    3    | [큰수만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)      |[🟢](그리디/동성-가장큰수.java)<br>String 인덱스 접근<br>char to Int|    |    |    |   |   | <!-- 끝 줄 표기 -->
 |    4    | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)        |   |    |    |    |   |   | <!-- 끝 줄 표기 -->
 |    5    | [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861)     |   |    |    |    |   |   | <!-- 끝 줄 표기 -->
 |    6    | [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)      |   |    |    |    |   |   | <!-- 끝 줄 표기 -->
