@@ -3,9 +3,8 @@ import java.util.Arrays;
 class Solution {
     public int solution(int n, int[] lost, int[] reserve) {
         int[] student = new int[n];
-		Arrays.fill(student, 1);
+	Arrays.fill(student, 1);
         Arrays.sort(lost);
-        Arrays.sort(reserve);
 
 		for (int i = 0; i < reserve.length; i++) {
 			student[(reserve[i] - 1)]++;
