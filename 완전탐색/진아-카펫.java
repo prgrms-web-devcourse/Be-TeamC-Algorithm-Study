@@ -16,7 +16,7 @@ class Solution {
         return null;
     }
 
-    List<Integer> getWidth(int yellow){
+    List<Integer> getWidth(int area){
         List<Integer> widths = new ArrayList<>();
 
         for(int width=yellow;width>=1;width--){
