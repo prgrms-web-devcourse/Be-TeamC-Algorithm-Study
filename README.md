@@ -84,4 +84,4 @@
 |    3    | [큰수만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)      |[🟢](그리디/동성-가장큰수.java)<br>String 인덱스 접근<br>char to Int|    |    |    |   |   | <!-- 끝 줄 표기 -->
 |    4    | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)        |[🟢](그리디/동성-구명보트.java)<br>투포인터   |    |    |    |   |   | <!-- 끝 줄 표기 -->
 |    5    | [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861)     |   |    |    |    |   |   | <!-- 끝 줄 표기 -->
-|    6    | [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)      |   |    |    |    |   |   | <!-- 끝 줄 표기 -->
+|    6    | [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)      |[🟢](그리디/동성-단속카메라.java)   |    |    |    |   |   | <!-- 끝 줄 표기 -->
