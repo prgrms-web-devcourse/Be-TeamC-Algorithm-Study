@@ -92,6 +92,6 @@
 |4|[도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897)||||[🟢](동적계획법/동건-도둑질.java)||[🟢](동적계획법/진아-도둑질.java)| <!-- 끝 줄 표기 -->
 | **<c8>DFS/BFS</c8>** |   **문제 명**    |   **동성**    |  **상순**    |    **수현**     |    **동건**      |  **수빈**   |   **진아**      |
 |1|[타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)||||[🟢](DFS_BFS/동건-타겟%20넘버.java)|[🟢](DFS_BFS/수빈-타겟%20넘버.java)|[🟢](DFS_BFS/진아-타겟%20넘버.java)| <!-- 끝 줄 표기 -->
-|2|[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)|||||[🟢](DFS_BFS/-네트워크.java)|[🟢](DFS_BFS/진아-네트워크.java)| <!-- 끝 줄 표기 -->
+|2|[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)||||[🟢](DFS_BFS/동건-네트워크.java)|[🟢](DFS_BFS/수빈-네트워크.java)|[🟢](DFS_BFS/진아-네트워크.java)| <!-- 끝 줄 표기 -->
 |3|[단어변환](https://programmers.co.kr/learn/courses/30/lessons/43163)||||||| <!-- 끝 줄 표기 -->
 |4|[여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)||||||| <!-- 끝 줄 표기 -->
