@@ -94,4 +94,4 @@
 |1|[타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)||||[🟢](DFS_BFS/동건-타겟%20넘버.java)|[🟢](DFS_BFS/수빈-타겟%20넘버.java)|[🟢](DFS_BFS/진아-타겟%20넘버.java)| <!-- 끝 줄 표기 -->
 |2|[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)||||[🟢](DFS_BFS/동건-네트워크.java)|[🟢](DFS_BFS/수빈-네트워크.java)|[🟢](DFS_BFS/진아-네트워크.java)| <!-- 끝 줄 표기 -->
 |3|[단어변환](https://programmers.co.kr/learn/courses/30/lessons/43163)||||[🔴](DFS_BFS/동건-단어%20변환.java)|[🟢](DFS_BFS/수빈-단어%20변환.java)|[🟢](DFS_BFS/진아-단어%20변환.java)| <!-- 끝 줄 표기 -->
-|4|[여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)||||[🟢](DFS_BFS/동건-여행경로.java)|[🟢](DFS_BFS/수빈-여행경로.java)|| <!-- 끝 줄 표기 -->
+|4|[여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)||||[🟢](DFS_BFS/동건-여행경로.java)|[🟢](DFS_BFS/수빈-여행경로.java)|[🔴](DFS_BFS/진아-여행%20경로.java)| <!-- 끝 줄 표기 -->
